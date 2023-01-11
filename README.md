@@ -118,7 +118,7 @@ This is a simple document that aims to list and index evidences of personal deve
   <li>
     <details> 
     <summary>
-      <p>[Course] Using the REST API in Salesforce Marketing Cloud</p> (100%) ✔️
+      <a href="https://www.pluralsight.com/courses/using-rest-api-salesforce-marketing-cloud">[Course] Using REST API in Salesforce Marketing Cloud</a> (100%) ✔️
     </summary>
     <ul>
       <li>
@@ -127,8 +127,10 @@ This is a simple document that aims to list and index evidences of personal deve
       <li>
         Finished: 2022-01-05
       </li>
+      <li>
+        <img src="../assets/salesforce-cloud-mkt-api-certificate.png"/>
+      </li>
     </ul>
-    <img src="../assets/salesforce-cloud-mkt-api-certificate.png"/>
     </details>
   </li>
 </ul>
