@@ -213,16 +213,8 @@ This is a simple document that aims to list and index evidences of personal deve
   <li>
     <details> 
     <summary>
-      <a href="https://docs.google.com/document/d/11H4p8mdh9XqysuJRMCgnANQ6WLe_93aPJqMJi-tC13E/edit?usp=share_link">[Book] Extreme Programming Explained</a> (100%) ✔️
+      <a href="https://www.oreilly.com/library/view/extreme-programming-pocket/9781449399849/">[Book] Extreme Programming Pocket Guide</a> (100%) ✔️
     </summary>
-    <ul>
-      <li>
-        Started: 2022-02-22
-      </li>
-      <li>
-        Finished: 2022-10-28
-      </li>
-    </ul>
     </details>
   </li>
 </ul>
