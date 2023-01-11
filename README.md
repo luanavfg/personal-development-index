@@ -128,7 +128,7 @@ This is a simple document that aims to list and index evidences of personal deve
         Finished: 2022-01-05
       </li>
       <li>
-        <img src="../assets/salesforce-cloud-mkt-api-certificate.png"/>
+        <img src="./assets/salesforce-cloud-mkt-api-certificate.png"/>
       </li>
     </ul>
     </details>
