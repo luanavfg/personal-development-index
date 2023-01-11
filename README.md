@@ -118,74 +118,17 @@ This is a simple document that aims to list and index evidences of personal deve
   <li>
     <details> 
     <summary>
-      <a href="https://github.com/amaralc/microfrontends-with-react">[Course] Microfrontends with React: A Complete Developer's Guide</a> (16%)
-    </summary>
-    <ul>
-        <li>
-          Started: 2022-11-10
-        </li>
-        <li>
-          Finished:
-        </li>
-      </ul>
-    </details>
-  </li>
-  <li>
-    <details> 
-    <summary>
-      <a href="https://github.com/amaralc/systems-design-fundamentals-notes">[Course] Systems Design Fundamentals</a> (20%)
+      <a href="https://www.pluralsight.com/courses/using-rest-api-salesforce-marketing-cloud">[Course] Using REST API in Salesforce Marketing Cloud</a> (100%) ✔️
     </summary>
     <ul>
       <li>
-        Started: 2022-12-11
+        Started: 2022-01-05
       </li>
       <li>
-        Finished:
-      </li>
-    </ul>
-    </details>
-  </li>
-  <li>
-    <details> 
-      <summary>
-        <a href="https://github.com/amaralc/nestjs-fundamentals">[Course] NestJS Fundamentals</a> (27%)
-      </summary>
-      <ul>
-        <li>
-          Started: 2022-11-26
-        </li>
-        <li>
-          Finished:
-        </li>
-      </ul>
-    </details>
-  </li>
-  <li>
-    <details> 
-    <summary>
-      <a href="https://docs.google.com/document/d/1-61PDnyvwtDovGyJWh2ZxFKRffzUxFheF41_2WTMWpU/edit?usp=share_link">[Book] Team Topologies: Organizing Business and Technology Teams for Fast Flow</a> (61%)
-    </summary>
-    <ul>
-      <li>
-        Started: 2022-11-02
+        Finished: 2022-01-05
       </li>
       <li>
-        Finished:
-      </li>
-    </ul>
-    </details>
-  </li>
-   <li>
-    <details> 
-    <summary>
-      <a href="https://docs.google.com/document/d/1Lhxslykqxw0it2yzYy-AELPS-VwzoMoi69FlQB11UXc/edit?usp=share_link">[Book] Building Micro-Frontends</a> (20%)
-    </summary>
-    <ul>
-      <li>
-        Started: 2022-10-13
-      </li>
-      <li>
-        Finished:
+        <img src="./assets/salesforce-cloud-mkt-api-certificate.png"/>
       </li>
     </ul>
     </details>
