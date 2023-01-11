@@ -160,5 +160,20 @@ This is a simple document that aims to list and index evidences of personal deve
     </summary>
     </details>
   </li>
+   <li>
+    <details> 
+    <summary>
+      <a href="https://cursos.alura.com.br/degree/certificate/8a4581a3-43cb-4803-b401-52ca6b9091bc">[Course] Alura Front-End Formation</a> (100%) ✔️
+    </summary>
+    <ul>
+      <li>
+        Started: 2022-04-27
+      </li>
+      <li>
+        Finished: 2022-05-13
+      </li>
+    </ul>
+    </details>
+  </li>
 </ul>
 </br>
