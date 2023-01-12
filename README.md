@@ -8,7 +8,7 @@ This is a simple document that aims to list and index evidences of personal deve
   <li>
     <details> 
       <summary>
-        <a href="https://egghead.io/courses/headless-wordpress-4a14">WordPress as a Headless Content Management System (CMS) and GraphQL API</a> (0%)
+        <a href="https://egghead.io/courses/headless-wordpress-4a14">[Course] WordPress as a Headless Content Management System (CMS) and GraphQL API</a> (0%)
       </summary>
       <ul>
         <li>
@@ -23,7 +23,7 @@ This is a simple document that aims to list and index evidences of personal deve
   <li>
     <details> 
       <summary>
-        <a href="https://egghead.io/courses/create-an-ecommerce-store-with-next-js-and-stripe-checkout-562c">Create an eCommerce Store with Next.js and Stripe Checkout</a> (0%)
+        <a href="https://egghead.io/courses/create-an-ecommerce-store-with-next-js-and-stripe-checkout-562c">[Course] Create an eCommerce Store with Next.js and Stripe Checkout</a> (0%)
       </summary>
       <ul>
         <li>
@@ -38,7 +38,22 @@ This is a simple document that aims to list and index evidences of personal deve
   <li>
     <details> 
       <summary>
-        <a href="https://academy.eincode.com/courses/next-js-typescript-with-shopify-integration-full-guide">Next JS & Typescript with Shopify Integration - Full Guide</a> (0%)
+        <a href="https://academy.eincode.com/courses/next-js-typescript-with-shopify-integration-full-guide">[Course] Next JS & Typescript with Shopify Integration - Full Guide</a> (0%)
+      </summary>
+      <ul>
+        <li>
+          Started: 
+        </li>
+        <li>
+          Finished:
+        </li>
+      </ul>
+      </details>
+  </li>
+  <li>
+    <details> 
+      <summary>
+        <a href="https://teamtopologies.com/book">[Book] Team Topologies</a> (0%)
       </summary>
       <ul>
         <li>
