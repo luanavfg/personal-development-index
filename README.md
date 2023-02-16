@@ -88,6 +88,21 @@ This is a simple document that aims to list and index evidences of personal deve
     </ul>
     </details>
   </li>
+   <li>
+    <details> 
+    <summary>
+      <a href="https://github.com/luanavfg/my-space-jelly-gear">[Course] ECommerce Product Management & Storefront with GraphCMS, Snipcart, & Next.js</a> (72%)
+    </summary>
+    <ul>
+      <li>
+        Started: 2022-02-12
+      </li>
+      <li>
+        Finished: -
+      </li>
+    </ul>
+    </details>
+  </li>
 </ul>
 </br>
 
