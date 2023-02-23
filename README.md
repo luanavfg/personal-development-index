@@ -18,7 +18,7 @@ This is a simple document that aims to list and index evidences of personal deve
           Finished:
         </li>
       </ul>
-      </details>
+    </details>
   </li>
   <li>
     <details> 
@@ -33,7 +33,7 @@ This is a simple document that aims to list and index evidences of personal deve
           Finished:
         </li>
       </ul>
-      </details>
+    </details>
   </li>
   <li>
     <details> 
@@ -48,7 +48,7 @@ This is a simple document that aims to list and index evidences of personal deve
           Finished:
         </li>
       </ul>
-      </details>
+    </details>
   </li>
   <li>
     <details> 
@@ -63,7 +63,37 @@ This is a simple document that aims to list and index evidences of personal deve
           Finished:
         </li>
       </ul>
-      </details>
+    </details>
+  </li>
+  <li>
+    <details> 
+      <summary>
+        <a href="https://egghead.io/lessons/react-intro-to-modern-redux-with-rtk-and-typescript">[Course] Modern Redux with Redux Toolkit (RTK) and TypeScript</a> (0%)
+      </summary>
+      <ul>
+        <li>
+          Started: 
+        </li>
+        <li>
+          Finished:
+        </li>
+      </ul>
+    </details>
+  </li>
+  <li>
+    <details> 
+      <summary>
+        <a href="https://www.totaltypescript.com/tips/derive-a-union-type-from-an-object">[Workshop] TypeScript Tips - A collection of useful tips that you wish you knew when you started using TypeScript.</a> (0%)
+      </summary>
+      <ul>
+        <li>
+          Started: 
+        </li>
+        <li>
+          Finished:
+        </li>
+      </ul>
+    </details>
   </li>
 </ul>
 </br>
@@ -72,50 +102,50 @@ This is a simple document that aims to list and index evidences of personal deve
 <ul>
   <li>
     <details> 
-    <summary>
-      <a href="https://www.pluralsight.com/courses/using-rest-api-salesforce-marketing-cloud">[Course] Using REST API in Salesforce Marketing Cloud</a> (100%) ✔️
-    </summary>
-    <ul>
-      <li>
-        Started: 2022-01-05
-      </li>
-      <li>
-        Finished: 2022-01-05
-      </li>
-      <li>
-        <img src="./assets/salesforce-cloud-mkt-api-certificate.png"/>
-      </li>
-    </ul>
+      <summary>
+        <a href="https://www.pluralsight.com/courses/using-rest-api-salesforce-marketing-cloud">[Course] Using REST API in Salesforce Marketing Cloud</a> (100%) ✔️
+      </summary>
+      <ul>
+        <li>
+          Started: 2022-01-05
+        </li>
+        <li>
+          Finished: 2022-01-05
+        </li>
+        <li>
+          <img src="./assets/salesforce-cloud-mkt-api-certificate.png"/>
+        </li>
+      </ul>
     </details>
   </li>
   <li>
     <details> 
-    <summary>
-      <a href="https://github.com/luanavfg/my-space-jelly-gear">[Course] ECommerce Product Management & Storefront with GraphCMS, Snipcart, & Next.js</a> (100%) ✔️
-    </summary>
-    <ul>
-      <li>
-        Started: 2022-02-12
-      </li>
-      <li>
-        Finished: -
-      </li>
-    </ul>
+      <summary>
+        <a href="https://github.com/luanavfg/my-space-jelly-gear">[Course] ECommerce Product Management & Storefront with GraphCMS, Snipcart, & Next.js</a> (100%) ✔️
+      </summary>
+      <ul>
+        <li>
+          Started: 2022-02-12
+        </li>
+        <li>
+          Finished: -
+        </li>
+      </ul>
     </details>
   </li>
   <li>
     <details> 
-    <summary>
-      <a href="https://github.com/luanavfg/react-nx-egghead">[Course] Scale React Development with Nx</a> (70%)
-    </summary>
-    <ul>
-      <li>
-        Started: 2022-01-12
-      </li>
-      <li>
-        Finished: -
-      </li>
-    </ul>
+      <summary>
+        <a href="https://github.com/luanavfg/react-nx-egghead">[Course] Scale React Development with Nx</a> (70%)
+      </summary>
+      <ul>
+        <li>
+          Started: 2022-01-12
+        </li>
+        <li>
+          Finished: -
+        </li>
+      </ul>
     </details>
   </li>
 </ul>
@@ -125,39 +155,39 @@ This is a simple document that aims to list and index evidences of personal deve
 <ul>
   <li>
     <details> 
-    <summary>
-      <a href="https://github.com/luanavfg/notification-service">[Workshop] Ignite Lab Node.js 2022</a> (100%) ✔️
-    </summary>
-    <ul>
-      <li>
-        Started: 2022-12-13
-      </li>
-      <li>
-        Finished: 2022-12-13
-      </li>
-    </ul>
+      <summary>
+        <a href="https://github.com/luanavfg/notification-service">[Workshop] Ignite Lab Node.js 2022</a> (100%) ✔️
+      </summary>
+      <ul>
+        <li>
+          Started: 2022-12-13
+        </li>
+        <li>
+          Finished: 2022-12-13
+        </li>
+      </ul>
     </details>
   </li>
   <li>
     <details> 
-    <summary>
-      <a href="https://www.oreilly.com/library/view/extreme-programming-pocket/9781449399849/">[Book] Extreme Programming Pocket Guide</a> (100%) ✔️
-    </summary>
+      <summary>
+        <a href="https://www.oreilly.com/library/view/extreme-programming-pocket/9781449399849/">[Book] Extreme Programming Pocket Guide</a> (100%) ✔️
+      </summary>
     </details>
   </li>
    <li>
     <details> 
-    <summary>
-      <a href="https://cursos.alura.com.br/degree/certificate/8a4581a3-43cb-4803-b401-52ca6b9091bc">[Course] Alura Front-End Formation</a> (100%) ✔️
-    </summary>
-    <ul>
-      <li>
-        Started: 2022-04-27
-      </li>
-      <li>
-        Finished: 2022-05-13
-      </li>
-    </ul>
+      <summary>
+        <a href="https://cursos.alura.com.br/degree/certificate/8a4581a3-43cb-4803-b401-52ca6b9091bc">[Course] Alura Front-End Formation</a> (100%) ✔️
+      </summary>
+      <ul>
+        <li>
+          Started: 2022-04-27
+        </li>
+        <li>
+          Finished: 2022-05-13
+        </li>
+      </ul>
     </details>
   </li>
 </ul>
