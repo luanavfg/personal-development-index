@@ -91,7 +91,7 @@ This is a simple document that aims to list and index evidences of personal deve
    <li>
     <details> 
     <summary>
-      <a href="https://github.com/luanavfg/my-space-jelly-gear">[Course] ECommerce Product Management & Storefront with GraphCMS, Snipcart, & Next.js</a> (72%)
+      <a href="https://github.com/luanavfg/my-space-jelly-gear">[Course] ECommerce Product Management & Storefront with GraphCMS, Snipcart, & Next.js</a> (100%) ✔️
     </summary>
     <ul>
       <li>
