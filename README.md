@@ -98,7 +98,7 @@ This is a simple document that aims to list and index evidences of personal deve
         Started: 2022-02-12
       </li>
       <li>
-        Finished: -
+        Finished: 2022-02-22
       </li>
     </ul>
     </details>
