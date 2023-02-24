@@ -134,7 +134,6 @@ This is a simple document that aims to list and index evidences of personal deve
     </details>
   </li>
   <li>
-  <li>
     <details> 
       <summary>
         <a href="https://github.com/luanavfg/beginners-typescript-tutorial">[Tutorial] Beginner's TypeScript</a> (50%)
