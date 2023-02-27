@@ -80,21 +80,6 @@ This is a simple document that aims to list and index evidences of personal deve
       </ul>
     </details>
   </li>
-  <li>
-    <details> 
-      <summary>
-        <a href="https://www.totaltypescript.com/tips/derive-a-union-type-from-an-object">[Workshop] TypeScript Tips - A collection of useful tips that you wish you knew when you started using TypeScript.</a> (0%)
-      </summary>
-      <ul>
-        <li>
-          Started: 
-        </li>
-        <li>
-          Finished:
-        </li>
-      </ul>
-    </details>
-  </li>
 </ul>
 </br>
 
@@ -136,14 +121,14 @@ This is a simple document that aims to list and index evidences of personal deve
   <li>
     <details> 
       <summary>
-        <a href="https://github.com/luanavfg/beginners-typescript-tutorial">[Tutorial] Beginner's TypeScript</a> (50%)
+        <a href="https://github.com/luanavfg/beginners-typescript-tutorial">[Tutorial] Beginner's TypeScript</a> (100%) ✔️
       </summary>
       <ul>
         <li>
           Started: 2022-02-23
         </li>
         <li>
-          Finished: -
+          Finished: 2022-02-27
         </li>
       </ul>
     </details>
