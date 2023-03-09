@@ -20,21 +20,7 @@ This is a simple document that aims to list and index evidences of personal deve
       </ul>
     </details>
   </li>
-  <li>
-    <details> 
-      <summary>
-        <a href="https://egghead.io/courses/create-an-ecommerce-store-with-next-js-and-stripe-checkout-562c">[Course] Create an eCommerce Store with Next.js and Stripe Checkout</a> (0%)
-      </summary>
-      <ul>
-        <li>
-          Started: 
-        </li>
-        <li>
-          Finished:
-        </li>
-      </ul>
-    </details>
-  </li>
+
   <li>
     <details> 
       <summary>
@@ -110,10 +96,10 @@ This is a simple document that aims to list and index evidences of personal deve
     </summary>
     <ul>
       <li>
-        Started: 2022-02-12
+        Started: 2023-02-12
       </li>
       <li>
-        Finished: 2022-02-22
+        Finished: 2023-02-22
       </li>
     </ul>
     </details>
@@ -125,10 +111,25 @@ This is a simple document that aims to list and index evidences of personal deve
       </summary>
       <ul>
         <li>
-          Started: 2022-02-23
+          Started: 2023-02-23
         </li>
         <li>
-          Finished: 2022-02-27
+          Finished: 2023-02-27
+        </li>
+      </ul>
+    </details>
+  </li>
+  <li>
+  <details> 
+      <summary>
+        <a href="https://github.com/luanavfg/my-ecomm-store">[Course] Create an eCommerce Store with Next.js and Stripe Checkout</a> (100%) ✔️
+      </summary>
+      <ul>
+        <li>
+          Started: 2023-03-02
+        </li>
+        <li>
+          Finished: 2023-03-08
         </li>
       </ul>
     </details>
@@ -140,7 +141,7 @@ This is a simple document that aims to list and index evidences of personal deve
       </summary>
       <ul>
         <li>
-          Started: 2022-01-12
+          Started: 2023-01-12
         </li>
         <li>
           Finished: -
