@@ -35,21 +35,6 @@ This is a simple document that aims to list and index evidences of personal deve
       </ul>
     </details>
   </li>
-  <li>
-    <details> 
-      <summary>
-        <a href="https://egghead.io/lessons/react-intro-to-modern-redux-with-rtk-and-typescript">[Course] Modern Redux with Redux Toolkit (RTK) and TypeScript</a> (0%)
-      </summary>
-      <ul>
-        <li>
-          Started: 
-        </li>
-        <li>
-          Finished:
-        </li>
-      </ul>
-    </details>
-  </li>
 </ul>
 </br>
 
@@ -114,6 +99,21 @@ This is a simple document that aims to list and index evidences of personal deve
         </li>
         <li>
           Finished: 2023-03-08
+        </li>
+      </ul>
+    </details>
+  </li>
+  <li>
+    <details> 
+      <summary>
+        <a href="https://egghead.io/lessons/react-intro-to-modern-redux-with-rtk-and-typescript">[Course] Modern Redux with Redux Toolkit (RTK) and TypeScript</a> (73%)
+      </summary>
+      <ul>
+        <li>
+          Started: 2023-03-21
+        </li>
+        <li>
+          Finished:
         </li>
       </ul>
     </details>
