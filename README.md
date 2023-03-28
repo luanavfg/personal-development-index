@@ -121,7 +121,7 @@ This is a simple document that aims to list and index evidences of personal deve
   <li>
     <details> 
       <summary>
-        <a href="https://egghead.io/courses/headless-wordpress-4a14">[Course] WordPress as a Headless Content Management System (CMS) and GraphQL API</a> (70%)
+        <a href="https://egghead.io/courses/headless-wordpress-4a14">[Course] WordPress as a Headless Content Management System (CMS) and GraphQL API</a> (100%) ✔️
       </summary>
       <ul>
         <li>
