@@ -106,14 +106,14 @@ This is a simple document that aims to list and index evidences of personal deve
   <li>
     <details> 
       <summary>
-        <a href="https://egghead.io/lessons/react-intro-to-modern-redux-with-rtk-and-typescript">[Course] Modern Redux with Redux Toolkit (RTK) and TypeScript</a> (73%)
+        <a href="https://egghead.io/courses/headless-wordpress-4a14">[Course] WordPress as a Headless Content Management System (CMS) and GraphQL API</a> (100%) ✔️
       </summary>
       <ul>
         <li>
-          Started: 2023-03-21
+          Started: 2023-03-14
         </li>
         <li>
-          Finished:
+          Finished: 2023-03-28
         </li>
       </ul>
     </details>
@@ -121,11 +121,11 @@ This is a simple document that aims to list and index evidences of personal deve
   <li>
     <details> 
       <summary>
-        <a href="https://egghead.io/courses/headless-wordpress-4a14">[Course] WordPress as a Headless Content Management System (CMS) and GraphQL API</a> (70%)
+        <a href="https://egghead.io/lessons/react-intro-to-modern-redux-with-rtk-and-typescript">[Course] Modern Redux with Redux Toolkit (RTK) and TypeScript</a> (73%)
       </summary>
       <ul>
         <li>
-          Started: 2023-03-14
+          Started: 2023-03-21
         </li>
         <li>
           Finished:
