@@ -106,7 +106,7 @@ This is a simple document that aims to list and index evidences of personal deve
   <li>
     <details> 
       <summary>
-        <a href="https://egghead.io/lessons/react-intro-to-modern-redux-with-rtk-and-typescript">[Course] Modern Redux with Redux Toolkit (RTK) and TypeScript</a> (100%) ✔️
+        <a href="https://github.com/luanavfg/redux-shopping-cart">[Course] Modern Redux with Redux Toolkit (RTK) and TypeScript</a> (100%) ✔️
       </summary>
       <ul>
         <li>
