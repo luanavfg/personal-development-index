@@ -20,21 +20,6 @@ This is a simple document that aims to list and index evidences of personal deve
       </ul>
     </details>
   </li>
-  <li>
-    <details> 
-      <summary>
-        <a href="https://teamtopologies.com/book">[Book] Team Topologies</a> (0%)
-      </summary>
-      <ul>
-        <li>
-          Started: 
-        </li>
-        <li>
-          Finished:
-        </li>
-      </ul>
-    </details>
-  </li>
 </ul>
 </br>
 
@@ -129,6 +114,21 @@ This is a simple document that aims to list and index evidences of personal deve
         </li>
         <li>
           Finished: 2023-03-28
+        </li>
+      </ul>
+    </details>
+  </li>
+  <li>
+    <details> 
+      <summary>
+        <a href="https://teamtopologies.com/book">[Book] Team Topologies</a> (11%)
+      </summary>
+      <ul>
+        <li>
+          Started: 2023-03-29
+        </li>
+        <li>
+          Finished:
         </li>
       </ul>
     </details>
