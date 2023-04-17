@@ -8,7 +8,67 @@ This is a simple document that aims to list and index evidences of personal deve
   <li>
     <details> 
       <summary>
-        <a href="https://academy.eincode.com/courses/next-js-typescript-with-shopify-integration-full-guide">[Course] Next JS & Typescript with Shopify Integration - Full Guide</a> (0%)
+        <a href="https://egghead.io/courses/full-stack-serverless-applications-with-next-js-fauna-35bd6879">[Course] Full-Stack Serverless Apps with Next.js & Fauna</a> (0%)
+      </summary>
+      <ul>
+        <li>
+          Started: 
+        </li>
+        <li>
+          Finished:
+        </li>
+      </ul>
+    </details>
+  </li>
+  <li>
+    <details> 
+      <summary>
+        <a href="https://egghead.io/courses/effectively-build-restful-apis-using-next-js-api-routes-41c2b1ea">[Course] Effectively Build RESTful APIs using Next.js API Routes</a> (0%)
+      </summary>
+      <ul>
+        <li>
+          Started: 
+        </li>
+        <li>
+          Finished:
+        </li>
+      </ul>
+    </details>
+  </li>
+  <li>
+    <details> 
+      <summary>
+        <a href="https://egghead.io/courses/fundamental-next-js-api-and-patterns-a6a7509f">[Course] Fundamental Next.js API and Patterns</a> (0%)
+      </summary>
+      <ul>
+        <li>
+          Started: 
+        </li>
+        <li>
+          Finished:
+        </li>
+      </ul>
+    </details>
+  </li>
+  <li>
+    <details> 
+      <summary>
+        <a href="https://egghead.io/courses/architect-an-extensible-digital-garden-with-next-js-tailwind-and-nx-53f7628f">[Course] Architect an Extensible Digital Garden with Next.js, Tailwind, and Nx</a> (0%)
+      </summary>
+      <ul>
+        <li>
+          Started: 
+        </li>
+        <li>
+          Finished:
+        </li>
+      </ul>
+    </details>
+  </li>
+  <li>
+    <details> 
+      <summary>
+        <a href="https://egghead.io/courses/build-static-pages-dynamically-using-next-js-and-the-notion-api-34849fc4">[Course] Build Static Pages Dynamically using Next.js and the Notion API</a> (0%)
       </summary>
       <ul>
         <li>
