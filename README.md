@@ -38,21 +38,6 @@ This is a simple document that aims to list and index evidences of personal deve
   <li>
     <details> 
       <summary>
-        <a href="https://egghead.io/courses/fundamental-next-js-api-and-patterns-a6a7509f">[Course] Fundamental Next.js API and Patterns</a> (0%)
-      </summary>
-      <ul>
-        <li>
-          Started: 
-        </li>
-        <li>
-          Finished:
-        </li>
-      </ul>
-    </details>
-  </li>
-  <li>
-    <details> 
-      <summary>
         <a href="https://egghead.io/courses/architect-an-extensible-digital-garden-with-next-js-tailwind-and-nx-53f7628f">[Course] Architect an Extensible Digital Garden with Next.js, Tailwind, and Nx</a> (0%)
       </summary>
       <ul>
@@ -174,6 +159,21 @@ This is a simple document that aims to list and index evidences of personal deve
         </li>
         <li>
           Finished: 2023-03-28
+        </li>
+      </ul>
+    </details>
+  </li>
+  <li>
+    <details> 
+      <summary>
+        <a href="https://github.com/luanavfg/egghead-beginners-guide-nextjs">[Course] Fundamental Next.js API and Patterns</a> (30%)
+      </summary>
+      <ul>
+        <li>
+          Started: 2023-04-19
+        </li>
+        <li>
+          Finished:
         </li>
       </ul>
     </details>
