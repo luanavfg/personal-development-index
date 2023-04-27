@@ -166,14 +166,14 @@ This is a simple document that aims to list and index evidences of personal deve
   <li>
     <details> 
       <summary>
-        <a href="https://github.com/luanavfg/egghead-beginners-guide-nextjs">[Course] Fundamental Next.js API and Patterns</a> (30%)
+        <a href="https://github.com/luanavfg/egghead-beginners-guide-nextjs">[Course] Fundamental Next.js API and Patterns</a> (100%) ✔️
       </summary>
       <ul>
         <li>
           Started: 2023-04-19
         </li>
         <li>
-          Finished:
+          Finished: 2023-04-26
         </li>
       </ul>
     </details>
