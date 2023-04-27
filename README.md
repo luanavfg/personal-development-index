@@ -181,7 +181,7 @@ This is a simple document that aims to list and index evidences of personal deve
   <li>
     <details> 
       <summary>
-        <a href="https://teamtopologies.com/book">[Book] Team Topologies</a> (20%)
+        <a href="https://docs.google.com/document/d/1RB2jStFBbfikLfwwAeb7pHT02uqWTofdegndC72HVJw/edit">[Book] Team Topologies</a> (31%)
       </summary>
       <ul>
         <li>
