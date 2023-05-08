@@ -23,21 +23,6 @@ This is a simple document that aims to list and index evidences of personal deve
   <li>
     <details> 
       <summary>
-        <a href="https://egghead.io/courses/effectively-build-restful-apis-using-next-js-api-routes-41c2b1ea">[Course] Effectively Build RESTful APIs using Next.js API Routes</a> (0%)
-      </summary>
-      <ul>
-        <li>
-          Started: 
-        </li>
-        <li>
-          Finished:
-        </li>
-      </ul>
-    </details>
-  </li>
-  <li>
-    <details> 
-      <summary>
         <a href="https://egghead.io/courses/architect-an-extensible-digital-garden-with-next-js-tailwind-and-nx-53f7628f">[Course] Architect an Extensible Digital Garden with Next.js, Tailwind, and Nx</a> (0%)
       </summary>
       <ul>
@@ -186,6 +171,21 @@ This is a simple document that aims to list and index evidences of personal deve
       <ul>
         <li>
           Started: 2023-03-29
+        </li>
+        <li>
+          Finished:
+        </li>
+      </ul>
+    </details>
+  </li>
+  <li>
+    <details> 
+      <summary>
+        <a href="https://github.com/luanavfg/notion-next-egghead-course">[Workshop] Effectively Build RESTful APIs using Next.js API Routes</a> (62%)
+      </summary>
+      <ul>
+        <li>
+          Started: 2023-05-03
         </li>
         <li>
           Finished:
