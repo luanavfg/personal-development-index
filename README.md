@@ -38,7 +38,7 @@ This is a simple document that aims to list and index evidences of personal deve
   <li>
     <details> 
       <summary>
-        <a href="https://egghead.io/courses/build-static-pages-dynamically-using-next-js-and-the-notion-api-34849fc4">[Course] Build Static Pages Dynamically using Next.js and the Notion API</a> (0%)
+        <a href="https://egghead.io/courses/effectively-build-restful-apis-using-next-js-api-routes-41c2b1ea">[Workshop] Effectively Build RESTful APIs using Next.js API Routes</a> (0%)
       </summary>
       <ul>
         <li>
@@ -181,14 +181,14 @@ This is a simple document that aims to list and index evidences of personal deve
   <li>
     <details> 
       <summary>
-        <a href="https://github.com/luanavfg/notion-next-egghead-course">[Workshop] Effectively Build RESTful APIs using Next.js API Routes</a> (62%)
+        <a href="https://github.com/luanavfg/notion-next-egghead-course">[Workshop] Build Static Pages Dynamically using Next.js and the Notion API</a> (100%) ✔️
       </summary>
       <ul>
         <li>
           Started: 2023-05-03
         </li>
         <li>
-          Finished:
+          Finished: 2023-05-08
         </li>
       </ul>
     </details>
