@@ -166,14 +166,14 @@ This is a simple document that aims to list and index evidences of personal deve
   <li>
     <details> 
       <summary>
-        <a href="https://github.com/luanavfg/egghead-beginners-guide-nextjs">[Course] Fundamental Next.js API and Patterns</a> (100%) ✔️
+        <a href="https://www.rocketseat.com.br/nlw">[Workshop] NLW Spacetime Rocketsear 2023</a> (50%)
       </summary>
       <ul>
         <li>
-          Started: 2023-04-19
+          Started: 2023-05-15
         </li>
         <li>
-          Finished: 2023-04-26
+          Finished:
         </li>
       </ul>
     </details>
