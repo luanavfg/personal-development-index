@@ -166,7 +166,22 @@ This is a simple document that aims to list and index evidences of personal deve
   <li>
     <details> 
       <summary>
-        <a href="https://docs.google.com/document/d/1RB2jStFBbfikLfwwAeb7pHT02uqWTofdegndC72HVJw/edit">[Book] Team Topologies</a> (31%)
+        <a href="https://github.com/luanavfg/egghead-beginners-guide-nextjs">[Course] Fundamental Next.js API and Patterns</a> (100%) ✔️
+      </summary>
+      <ul>
+        <li>
+          Started: 2023-04-19
+        </li>
+        <li>
+          Finished: 2023-04-26
+        </li>
+      </ul>
+    </details>
+  </li>
+  <li>
+    <details> 
+      <summary>
+        <a href="https://docs.google.com/document/d/1RB2jStFBbfikLfwwAeb7pHT02uqWTofdegndC72HVJw/edit">[Book] Team Topologies</a> (40%)
       </summary>
       <ul>
         <li>
