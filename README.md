@@ -35,21 +35,6 @@ This is a simple document that aims to list and index evidences of personal deve
       </ul>
     </details>
   </li>
-  <li>
-    <details> 
-      <summary>
-        <a href="https://egghead.io/courses/effectively-build-restful-apis-using-next-js-api-routes-41c2b1ea">[Workshop] Effectively Build RESTful APIs using Next.js API Routes</a> (0%)
-      </summary>
-      <ul>
-        <li>
-          Started: 
-        </li>
-        <li>
-          Finished:
-        </li>
-      </ul>
-    </details>
-  </li>
 </ul>
 </br>
 
@@ -62,10 +47,10 @@ This is a simple document that aims to list and index evidences of personal deve
       </summary>
       <ul>
         <li>
-          Started: 2022-01-05
+          Started: 2022-01-02
         </li>
         <li>
-          Finished: 2022-01-05
+          Finished: 2022-01-02
         </li>
         <li>
           <img src="./assets/salesforce-cloud-mkt-api-certificate.png"/>
@@ -189,6 +174,21 @@ This is a simple document that aims to list and index evidences of personal deve
         </li>
         <li>
           Finished: 2023-05-28
+        </li>
+      </ul>
+    </details>
+  </li>
+  <li>
+    <details> 
+      <summary>
+        <a href="https://github.com/luanavfg/egghead-restful-api-nextjs">[Workshop] Effectively Build RESTful APIs using Next.js API Routes</a> (100%) ✔️
+      </summary>
+      <ul>
+        <li>
+          Started: 2023-05-29
+        </li>
+        <li>
+          Finished: 2023-05-29
         </li>
       </ul>
     </details>
