@@ -166,14 +166,29 @@ This is a simple document that aims to list and index evidences of personal deve
   <li>
     <details> 
       <summary>
-        <a href="https://www.rocketseat.com.br/nlw">[Workshop] NLW Spacetime Rocketsear 2023</a> (50%)
+        <a href="https://github.com/luanavfg/notion-next-egghead-course">[Workshop] Build Static Pages Dynamically using Next.js and the Notion API</a> (100%) ✔️
+      </summary>
+      <ul>
+        <li>
+          Started: 2023-05-03
+        </li>
+        <li>
+          Finished: 2023-05-08
+        </li>
+      </ul>
+    </details>
+  </li>
+  <li>
+    <details> 
+      <summary>
+        <a href="https://github.com/luanavfg/nlw-spacetime-rocketseat">[Workshop] NLW Spacetime Rocketseat 2023</a> (100%) ✔️
       </summary>
       <ul>
         <li>
           Started: 2023-05-15
         </li>
         <li>
-          Finished:
+          Finished: 2023-05-28
         </li>
       </ul>
     </details>
@@ -189,21 +204,6 @@ This is a simple document that aims to list and index evidences of personal deve
         </li>
         <li>
           Finished:
-        </li>
-      </ul>
-    </details>
-  </li>
-  <li>
-    <details> 
-      <summary>
-        <a href="https://github.com/luanavfg/notion-next-egghead-course">[Workshop] Build Static Pages Dynamically using Next.js and the Notion API</a> (100%) ✔️
-      </summary>
-      <ul>
-        <li>
-          Started: 2023-05-03
-        </li>
-        <li>
-          Finished: 2023-05-08
         </li>
       </ul>
     </details>
