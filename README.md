@@ -8,21 +8,6 @@ This is a simple document that aims to list and index evidences of personal deve
   <li>
     <details> 
       <summary>
-        <a href="https://egghead.io/courses/full-stack-serverless-applications-with-next-js-fauna-35bd6879">[Course] Full-Stack Serverless Apps with Next.js & Fauna</a> (0%)
-      </summary>
-      <ul>
-        <li>
-          Started: 
-        </li>
-        <li>
-          Finished:
-        </li>
-      </ul>
-    </details>
-  </li>
-  <li>
-    <details> 
-      <summary>
         <a href="https://egghead.io/courses/architect-an-extensible-digital-garden-with-next-js-tailwind-and-nx-53f7628f">[Course] Architect an Extensible Digital Garden with Next.js, Tailwind, and Nx</a> (0%)
       </summary>
       <ul>
@@ -201,6 +186,21 @@ This is a simple document that aims to list and index evidences of personal deve
       <ul>
         <li>
           Started: 2023-03-29
+        </li>
+        <li>
+          Finished:
+        </li>
+      </ul>
+    </details>
+  </li>
+  <li>
+    <details> 
+      <summary>
+        <a href="https://github.com/luanavfg/my-market-place">[Course] Full-Stack Serverless Apps with Next.js & Fauna</a> (23%)
+      </summary>
+      <ul>
+        <li>
+          Started: 2023-06-08
         </li>
         <li>
           Finished:
