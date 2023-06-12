@@ -196,14 +196,14 @@ This is a simple document that aims to list and index evidences of personal deve
   <li>
     <details> 
       <summary>
-        <a href="https://docs.google.com/document/d/1RB2jStFBbfikLfwwAeb7pHT02uqWTofdegndC72HVJw/edit">[Book] Team Topologies</a> (70%)
+        <a href="https://docs.google.com/document/d/1RB2jStFBbfikLfwwAeb7pHT02uqWTofdegndC72HVJw/edit">[Book] Team Topologies</a> (100%) ✔️
       </summary>
       <ul>
         <li>
           Started: 2023-03-29
         </li>
         <li>
-          Finished:
+          Finished: 2023-06-11
         </li>
       </ul>
     </details>
