@@ -196,7 +196,7 @@ This is a simple document that aims to list and index evidences of personal deve
   <li>
     <details> 
       <summary>
-        <a href="https://github.com/luanavfg/my-market-place">[Course] Full-Stack Serverless Apps with Next.js & Fauna</a> (23%)
+        <a href="https://github.com/luanavfg/my-market-place">[Course] Full-Stack Serverless Apps with Next.js & Fauna</a> (63%)
       </summary>
       <ul>
         <li>
