@@ -65,21 +65,6 @@ This is a simple document that aims to list and index evidences of personal deve
       </ul>
     </details>
   </li>
-  <li>
-    <details> 
-      <summary>
-        <a href="https://app.rocketseat.com.br/ignite/node-js-2023">[Course] Rocketseat Ignite Nodejs - Project 01</a> (0%)
-      </summary>
-      <ul>
-        <li>
-          Started: 
-        </li>
-        <li>
-          Finished:
-        </li>
-      </ul>
-    </details>
-  </li>
 </ul>
 </br>
 
@@ -271,6 +256,21 @@ This is a simple document that aims to list and index evidences of personal deve
   <li>
     <details> 
       <summary>
+        <a href="https://app.rocketseat.com.br/ignite/node-js-2023">[Course] Rocketseat Ignite Nodejs - Project 01</a> (4%)
+      </summary>
+      <ul>
+        <li>
+          Started: 2023-07-03
+        </li>
+        <li>
+          Finished:
+        </li>
+      </ul>
+    </details>
+  </li>
+  <!-- <li>
+    <details> 
+      <summary>
         <a href="https://github.com/luanavfg/react-nx-egghead">[Course] Scale React Development with Nx</a> (70%)
       </summary>
       <ul>
@@ -282,7 +282,7 @@ This is a simple document that aims to list and index evidences of personal deve
         </li>
       </ul>
     </details>
-  </li>
+  </li> -->
 </ul>
 </br>
 
