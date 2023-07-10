@@ -38,21 +38,6 @@ This is a simple document that aims to list and index evidences of personal deve
   <li>
     <details> 
       <summary>
-        <a href="https://alistair.cockburn.us/hexagonal-architecture/">[Article] Hexagonal Architecture</a> (0%)
-      </summary>
-      <ul>
-        <li>
-          Started: 
-        </li>
-        <li>
-          Finished:
-        </li>
-      </ul>
-    </details>
-  </li>
-  <li>
-    <details> 
-      <summary>
         <a href="https://alistair.cockburn.us/hexagonal-architecture/">[Book Chapter] Software Engineering at Google: Lessons Learned from Programming Over Time - Chapter 5</a> (0%)
       </summary>
       <ul>
@@ -249,6 +234,21 @@ This is a simple document that aims to list and index evidences of personal deve
         </li>
         <li>
           Finished: 2023-06-26
+        </li>
+      </ul>
+    </details>
+  </li>
+   <li>
+    <details> 
+      <summary>
+        <a href="https://alistair.cockburn.us/hexagonal-architecture/">[Article] Hexagonal Architecture</a> (100%) ✔️
+      </summary>
+      <ul>
+        <li>
+          Started: 2023-07-07
+        </li>
+        <li>
+          Finished: 2023-07-09
         </li>
       </ul>
     </details>
