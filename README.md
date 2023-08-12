@@ -23,36 +23,6 @@ This is a simple document that aims to list and index evidences of personal deve
   <li>
     <details> 
       <summary>
-        <a href="https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html">[Article] The Clean Architecture</a> (0%)
-      </summary>
-      <ul>
-        <li>
-          Started: 
-        </li>
-        <li>
-          Finished:
-        </li>
-      </ul>
-    </details>
-  </li>
-  <li>
-    <details> 
-      <summary>
-        <a href="https://alistair.cockburn.us/hexagonal-architecture/">[Article] Hexagonal Architecture</a> (0%)
-      </summary>
-      <ul>
-        <li>
-          Started: 
-        </li>
-        <li>
-          Finished:
-        </li>
-      </ul>
-    </details>
-  </li>
-  <li>
-    <details> 
-      <summary>
         <a href="https://alistair.cockburn.us/hexagonal-architecture/">[Book Chapter] Software Engineering at Google: Lessons Learned from Programming Over Time - Chapter 5</a> (0%)
       </summary>
       <ul>
@@ -253,7 +223,52 @@ This is a simple document that aims to list and index evidences of personal deve
       </ul>
     </details>
   </li>
+   <li>
+    <details> 
+      <summary>
+        <a href="https://alistair.cockburn.us/hexagonal-architecture/">[Article] Hexagonal Architecture</a> (100%) ✔️
+      </summary>
+      <ul>
+        <li>
+          Started: 2023-07-07
+        </li>
+        <li>
+          Finished: 2023-07-09
+        </li>
+      </ul>
+    </details>
+  </li>
   <li>
+    <details> 
+      <summary>
+        <a href="https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html">[Article] The Clean Architecture</a> (100%) ✔️
+      </summary>
+      <ul>
+        <li>
+          Started: 2023-07-11
+        </li>
+        <li>
+          Finished: 2-23-07-12
+        </li>
+      </ul>
+    </details>
+  </li>
+  <li>
+    <details> 
+      <summary>
+        <a href="https://app.rocketseat.com.br/ignite/node-js-2023">[Course] Rocketseat Ignite Nodejs - Project 01</a> (4%)
+      </summary>
+      <ul>
+        <li>
+          Started: 2023-07-03
+        </li>
+        <li>
+          Finished:
+        </li>
+      </ul>
+    </details>
+  </li>
+  <!-- <li>
     <details> 
       <summary>
         <a href="https://github.com/luanavfg/react-nx-egghead">[Course] Scale React Development with Nx</a> (70%)
@@ -267,7 +282,7 @@ This is a simple document that aims to list and index evidences of personal deve
         </li>
       </ul>
     </details>
-  </li>
+  </li> -->
 </ul>
 </br>
 
