@@ -298,6 +298,21 @@ This is a simple document that aims to list and index evidences of personal deve
       </ul>
     </details>
   </li>
+  <li>
+    <details> 
+      <summary>
+        <a href="https://github.com/ItaloRAmaral/cliniccontrol">[Project] Clinic Control System using Nestjs and Clean Architecture - Pair Development</a>
+      </summary>
+      <ul>
+        <li>
+          Started: 2023-08-17
+        </li>
+        <li>
+          Finished:
+        </li>
+      </ul>
+    </details>
+  </li>
   <!-- <li>
     <details> 
       <summary>
