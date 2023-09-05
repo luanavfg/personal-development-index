@@ -256,7 +256,7 @@ This is a simple document that aims to list and index evidences of personal deve
   <li>
     <details> 
       <summary>
-        <a href="https://alistair.cockburn.us/hexagonal-architecture/">[Book Chapter] Software Engineering at Google: Lessons Learned from Programming Over Time - Chapter 5</a> (100%) ✔️
+        <a href="https://www.oreilly.com/library/view/software-engineering-at/9781492082781/">[Book Chapter] Software Engineering at Google: Lessons Learned from Programming Over Time - Chapter 5 - How to Lead a Team</a> (100%) ✔️
       </summary>
       <ul>
         <li>
@@ -264,6 +264,21 @@ This is a simple document that aims to list and index evidences of personal deve
         </li>
         <li>
           Finished: 2023-07-21
+        </li>
+      </ul>
+    </details>
+  </li>
+  <li>
+    <details> 
+      <summary>
+        <a href="https://www.oreilly.com/library/view/software-engineering-at/9781492082781/">[Book Chapter] Software Engineering at Google: Lessons Learned from Programming Over Time - Chapter 6 - Leading at Scale</a> (100%) ✔️
+      </summary>
+      <ul>
+        <li>
+          Started: 2023-08-29
+        </li>
+        <li>
+          Finished: 2023-08-01
         </li>
       </ul>
     </details>
