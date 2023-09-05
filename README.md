@@ -301,6 +301,21 @@ This is a simple document that aims to list and index evidences of personal deve
   <li>
     <details> 
       <summary>
+        <a href="https://www.oreilly.com/library/view/the-phoenix-project/9781457191350/">[Book] The Phoenix Project: A novel about IT, DevOps and helping our business win</a> (5%)
+      </summary>
+      <ul>
+        <li>
+          Started: 2023-08-29
+        </li>
+        <li>
+          Finished:
+        </li>
+      </ul>
+    </details>
+  </li>
+  <li>
+    <details> 
+      <summary>
         <a href="https://github.com/ItaloRAmaral/cliniccontrol">[Project] Clinic Control System using Nestjs and Clean Architecture - Pair Development</a>
       </summary>
       <ul>
@@ -313,21 +328,6 @@ This is a simple document that aims to list and index evidences of personal deve
       </ul>
     </details>
   </li>
-  <!-- <li>
-    <details> 
-      <summary>
-        <a href="https://github.com/luanavfg/react-nx-egghead">[Course] Scale React Development with Nx</a> (70%)
-      </summary>
-      <ul>
-        <li>
-          Started: 2023-01-12
-        </li>
-        <li>
-          Finished: -
-        </li>
-      </ul>
-    </details>
-  </li> -->
 </ul>
 </br>
 
