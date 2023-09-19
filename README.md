@@ -20,21 +20,6 @@ This is a simple document that aims to list and index evidences of personal deve
       </ul>
     </details>
   </li>
-  <li>
-    <details> 
-      <summary>
-        <a href="https://alistair.cockburn.us/hexagonal-architecture/">[Book Chapter] Software Engineering at Google: Lessons Learned from Programming Over Time - Chapter 5</a> (0%)
-      </summary>
-      <ul>
-        <li>
-          Started: 
-        </li>
-        <li>
-          Finished:
-        </li>
-      </ul>
-    </details>
-  </li>
 </ul>
 </br>
 
@@ -286,7 +271,7 @@ This is a simple document that aims to list and index evidences of personal deve
   <li>
     <details> 
       <summary>
-        <a href="https://github.com/luanavfg/ignite-nodejs-project-01">[Course] Rocketseat Ignite Nodejs - Project 01</a> (100%)
+        <a href="https://github.com/luanavfg/ignite-nodejs-project-01">[Course] Rocketseat Ignite Nodejs - Project 01</a> (100%) ✔️
       </summary>
       <ul>
         <li>
@@ -301,7 +286,7 @@ This is a simple document that aims to list and index evidences of personal deve
   <li>
     <details> 
       <summary>
-        <a href="https://www.oreilly.com/library/view/the-phoenix-project/9781457191350/">[Book] The Phoenix Project: A novel about IT, DevOps and helping our business win</a> (10%)
+        <a href="https://www.oreilly.com/library/view/the-phoenix-project/9781457191350/">[Book] The Phoenix Project: A novel about IT, DevOps and helping our business win</a> (12%)
       </summary>
       <ul>
         <li>
