@@ -286,6 +286,21 @@ This is a simple document that aims to list and index evidences of personal deve
   <li>
     <details> 
       <summary>
+        <a href="https://github.com/luanavfg/ignite-nodejs-project-02">[Course] Rocketseat Ignite Nodejs - Project 02</a> (40%) 
+      </summary>
+      <ul>
+        <li>
+          Started: 2023-09-19
+        </li>
+        <li>
+          Finished: 
+        </li>
+      </ul>
+    </details>
+  </li>
+  <li>
+    <details> 
+      <summary>
         <a href="https://www.oreilly.com/library/view/the-phoenix-project/9781457191350/">[Book] The Phoenix Project: A novel about IT, DevOps and helping our business win</a> (12%)
       </summary>
       <ul>
@@ -301,7 +316,7 @@ This is a simple document that aims to list and index evidences of personal deve
   <li>
     <details> 
       <summary>
-        <a href="https://github.com/ItaloRAmaral/cliniccontrol">[Project] Clinic Control System using Nestjs and Clean Architecture - Pair Development</a>
+        <a href="https://github.com/ItaloRAmaral/cliniccontrol">[Project] Clinic Control System using Nestjs and Clean Architecture - Pair Development</a> (In Progress)
       </summary>
       <ul>
         <li>
