@@ -286,14 +286,14 @@ This is a simple document that aims to list and index evidences of personal deve
   <li>
     <details> 
       <summary>
-        <a href="https://github.com/luanavfg/ignite-nodejs-project-02">[Course] Rocketseat Ignite Nodejs - Project 02</a> (40%) 
+        <a href="https://github.com/luanavfg/ignite-nodejs-project-02">[Course] Rocketseat Ignite Nodejs - Project 02</a> (100%) ✔️
       </summary>
       <ul>
         <li>
           Started: 2023-09-19
         </li>
         <li>
-          Finished: 
+          Finished: 2023-10-03
         </li>
       </ul>
     </details>
