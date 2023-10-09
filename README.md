@@ -301,6 +301,21 @@ This is a simple document that aims to list and index evidences of personal deve
   <li>
     <details> 
       <summary>
+        <a href="https://github.com/luanavfg/ignite-nodejs-project-03">[Course] Rocketseat Ignite Nodejs - Project 03</a> (11%)
+      </summary>
+      <ul>
+        <li>
+          Started: 2023-10-06
+        </li>
+        <li>
+          Finished: 
+        </li>
+      </ul>
+    </details>
+  </li>
+  <li>
+    <details> 
+      <summary>
         <a href="https://www.oreilly.com/library/view/the-phoenix-project/9781457191350/">[Book] The Phoenix Project: A novel about IT, DevOps and helping our business win</a> (26%)
       </summary>
       <ul>
