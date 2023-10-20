@@ -301,7 +301,7 @@ This is a simple document that aims to list and index evidences of personal deve
   <li>
     <details> 
       <summary>
-        <a href="https://github.com/luanavfg/ignite-nodejs-project-03">[Course] Rocketseat Ignite Nodejs - Project 03</a> (11%)
+        <a href="https://github.com/luanavfg/ignite-nodejs-project-03">[Course] Rocketseat Ignite Nodejs - Project 03</a> (48%)
       </summary>
       <ul>
         <li>
