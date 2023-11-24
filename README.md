@@ -1,6 +1,6 @@
 # Personal Development Index
 
-This is a simple document that aims to list and index evidences of personal development. Read [this references](./docs/references.md) for aditional details.
+This is a simple document that aims to list and index evidences of personal development. Read [this references](./docs/references.md) for additional details.
 
 </br>
 <h1>Backlog</h1>
@@ -8,11 +8,11 @@ This is a simple document that aims to list and index evidences of personal deve
   <li>
     <details> 
       <summary>
-        <a href="https://egghead.io/courses/architect-an-extensible-digital-garden-with-next-js-tailwind-and-nx-53f7628f">[Course] Architect an Extensible Digital Garden with Next.js, Tailwind, and Nx</a> (0%)
+        <a href="https://learn.mongodb.com/learning-paths/mongodb-nodejs-developer-path">[Course] MongoDB Node.js Developer Path</a>
       </summary>
       <ul>
         <li>
-          Started: 
+          Started:
         </li>
         <li>
           Finished:
@@ -151,7 +151,7 @@ This is a simple document that aims to list and index evidences of personal deve
   <li>
     <details> 
       <summary>
-        <a href="https://github.com/luanavfg/nlw-spacetime-rocketseat">[Workshop] NLW Spacetime Rocketseat 2023</a> (100%) ✔️
+        <a href="https://github.com/luanavfg/nlw-spacetime-rocketseat">[Workshop] NLW Spacetime RocketSeat 2023</a> (100%) ✔️
       </summary>
       <ul>
         <li>
@@ -271,7 +271,7 @@ This is a simple document that aims to list and index evidences of personal deve
   <li>
     <details> 
       <summary>
-        <a href="https://github.com/luanavfg/ignite-nodejs-project-01">[Course] Rocketseat Ignite Nodejs - Project 01</a> (100%) ✔️
+        <a href="https://github.com/luanavfg/ignite-nodejs-project-01">[Course] RocketSeat Ignite Nodejs - Project 01</a> (100%) ✔️
       </summary>
       <ul>
         <li>
@@ -286,7 +286,7 @@ This is a simple document that aims to list and index evidences of personal deve
   <li>
     <details> 
       <summary>
-        <a href="https://github.com/luanavfg/ignite-nodejs-project-02">[Course] Rocketseat Ignite Nodejs - Project 02</a> (100%) ✔️
+        <a href="https://github.com/luanavfg/ignite-nodejs-project-02">[Course] RocketSeat Ignite Nodejs - Project 02</a> (100%) ✔️
       </summary>
       <ul>
         <li>
@@ -301,7 +301,7 @@ This is a simple document that aims to list and index evidences of personal deve
   <li>
     <details> 
       <summary>
-        <a href="https://github.com/luanavfg/ignite-nodejs-project-03">[Course] Rocketseat Ignite Nodejs - Project 03</a> (100%) ✔️
+        <a href="https://github.com/luanavfg/ignite-nodejs-project-03">[Course] RocketSeat Ignite Nodejs - Project 03</a> (100%) ✔️
       </summary>
       <ul>
         <li>
@@ -331,7 +331,7 @@ This is a simple document that aims to list and index evidences of personal deve
   <li>
     <details> 
       <summary>
-        <a href="https://github.com/ItaloRAmaral/cliniccontrol">[Project] Clinic Control System using Nestjs and Clean Architecture - Pair Development</a> (In Progress)
+        <a href="https://github.com/ItaloRAmaral/cliniccontrol">[Project] Clinic Control System using Nest.js and Clean Architecture - Pair Development</a> (In Progress)
       </summary>
       <ul>
         <li>
