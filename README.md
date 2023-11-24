@@ -301,14 +301,14 @@ This is a simple document that aims to list and index evidences of personal deve
   <li>
     <details> 
       <summary>
-        <a href="https://github.com/luanavfg/ignite-nodejs-project-03">[Course] Rocketseat Ignite Nodejs - Project 03</a> (48%)
+        <a href="https://github.com/luanavfg/ignite-nodejs-project-03">[Course] Rocketseat Ignite Nodejs - Project 03</a> (100%) ✔️
       </summary>
       <ul>
         <li>
           Started: 2023-10-06
         </li>
         <li>
-          Finished: 
+          Finished: 2023-11-07
         </li>
       </ul>
     </details>
