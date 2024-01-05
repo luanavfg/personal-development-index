@@ -346,14 +346,14 @@ This is a simple document that aims to list and index evidences of personal deve
   <li>
     <details> 
       <summary>
-        <a href="https://www.oreilly.com/library/view/the-phoenix-project/9781457191350/">[Book] The Phoenix Project: A novel about IT, DevOps and helping our business win</a> (62%)
+        <a href="https://www.oreilly.com/library/view/the-phoenix-project/9781457191350/">[Book] The Phoenix Project: A novel about IT, DevOps and helping our business win</a> (100%) ✔️
       </summary>
       <ul>
         <li>
           Started: 2023-08-29
         </li>
         <li>
-          Finished:
+          Finished: 2023-12-30
         </li>
       </ul>
     </details>
