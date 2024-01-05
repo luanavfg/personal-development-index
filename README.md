@@ -20,6 +20,36 @@ This is a simple document that aims to list and index evidences of personal deve
       </ul>
     </details>
   </li>
+  <li>
+    <details> 
+      <summary>
+        <a href="">[Course] RocketSeat Ignite Nodejs - Project 04</a>
+      </summary>
+      <ul>
+        <li>
+          Started:
+        </li>
+        <li>
+          Finished:
+        </li>
+      </ul>
+    </details>
+  </li>
+  <li>
+    <details> 
+      <summary>
+        <a href="">[Course] RocketSeat Ignite Nodejs - Project 05</a>
+      </summary>
+      <ul>
+        <li>
+          Started:
+        </li>
+        <li>
+          Finished:
+        </li>
+      </ul>
+    </details>
+  </li>
 </ul>
 </br>
 
