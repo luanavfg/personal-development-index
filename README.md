@@ -58,14 +58,14 @@ This is a simple document that aims to list and index evidences of personal deve
  <li>
     <details> 
       <summary>
-        <a href="https://github.com/luanavfg/daily-diet-api">[Project] Daily Diet Api</a> (10%)
+        <a href="https://github.com/luanavfg/daily-diet-api">[Project] Daily Diet Api</a> (100%) ✔️
       </summary>
       <ul>
         <li>
           Started: 2024-01-03
         </li>
         <li>
-          Finished:
+          Finished: 2024-01-15
         </li>
       </ul>
     </details>
