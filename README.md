@@ -70,6 +70,36 @@ This is a simple document that aims to list and index evidences of personal deve
       </ul>
     </details>
   </li>
+  <li>
+    <details> 
+      <summary>
+        <a href="https://github.com/luanavfg/find-a-friend-api">[Project] Find a Friend Api</a> (25%)
+      </summary>
+      <ul>
+        <li>
+          Started: 2024-01-30
+        </li>
+        <li>
+          Finished:
+        </li>
+      </ul>
+    </details>
+  </li>
+  <li>
+    <details> 
+      <summary>
+        <a href="https://github.com/ItaloRAmaral/cliniccontrol">[Project] Clinic Control System using Nest.js and Clean Architecture - Pair Development</a> (In Progress)
+      </summary>
+      <ul>
+        <li>
+          Started: 2023-08-17
+        </li>
+        <li>
+          Finished:
+        </li>
+      </ul>
+    </details>
+  </li>
 </ul>
 </br>
 
