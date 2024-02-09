@@ -73,14 +73,14 @@ This is a simple document that aims to list and index evidences of personal deve
   <li>
     <details> 
       <summary>
-        <a href="https://github.com/luanavfg/find-a-friend-api">[Project] Find a Friend Api</a> (25%)
+        <a href="https://github.com/luanavfg/find-a-friend-api">[Project] Find a Friend Api</a> (100%) ✔️
       </summary>
       <ul>
         <li>
           Started: 2024-01-30
         </li>
         <li>
-          Finished:
+          Finished: 2024-02-09
         </li>
       </ul>
     </details>
