@@ -23,21 +23,6 @@ This is a simple document that aims to list and index evidences of personal deve
   <li>
     <details> 
       <summary>
-        <a href="">[Course] RocketSeat Ignite Nodejs - Project 04</a>
-      </summary>
-      <ul>
-        <li>
-          Started:
-        </li>
-        <li>
-          Finished:
-        </li>
-      </ul>
-    </details>
-  </li>
-  <li>
-    <details> 
-      <summary>
         <a href="">[Course] RocketSeat Ignite Nodejs - Project 05</a>
       </summary>
       <ul>
@@ -81,6 +66,21 @@ This is a simple document that aims to list and index evidences of personal deve
         </li>
         <li>
           Finished: 2024-02-09
+        </li>
+      </ul>
+    </details>
+  </li>
+   <li>
+    <details> 
+      <summary>
+        <a href="">[Course] RocketSeat Ignite Nodejs - Project 04</a> (6%)
+      </summary>
+      <ul>
+        <li>
+          Started: 2024-02-26
+        </li>
+        <li>
+          Finished:
         </li>
       </ul>
     </details>
