@@ -73,7 +73,7 @@ This is a simple document that aims to list and index evidences of personal deve
    <li>
     <details> 
       <summary>
-        <a href="">[Course] RocketSeat Ignite Nodejs - Project 04</a> (6%)
+        <a href="">[Course] RocketSeat Ignite Nodejs - Project 04</a> (20%)
       </summary>
       <ul>
         <li>
