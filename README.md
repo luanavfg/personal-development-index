@@ -73,14 +73,14 @@ This is a simple document that aims to list and index evidences of personal deve
    <li>
     <details> 
       <summary>
-        <a href="">[Course] RocketSeat Ignite Nodejs - Project 04</a> (60%)
+        <a href="https://github.com/luanavfg/ignite-nodejs-project-04">[Course] RocketSeat Ignite Nodejs - Project 04</a> (100%) ✔️
       </summary>
       <ul>
         <li>
           Started: 2024-02-26
         </li>
         <li>
-          Finished:
+          Finished: 2024-05-13
         </li>
       </ul>
     </details>
