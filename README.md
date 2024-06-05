@@ -100,6 +100,21 @@ This is a simple document that aims to list and index evidences of personal deve
       </ul>
     </details>
   </li>
+  <li>
+    <details> 
+      <summary>
+        <a href="https://learn.mongodb.com/learn/learning-path/introduction-to-mongodb">[Course] Introduction to MongoDB - Mongo DB University</a>
+      </summary>
+      <ul>
+        <li>
+          Started: 2024-06-02
+        </li>
+        <li>
+          Finished:
+        </li>
+      </ul>
+    </details>
+  </li>
 </ul>
 </br>
 
